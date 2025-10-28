@@ -1,0 +1,36 @@
+{
+  "name": "flutter-canvas-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript implementation of Flutter painting library, providing Flutter-like drawing APIs for web environments",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fi2zz/flutter-canvas-ts.git"
+  },
+  "keywords": [
+    "flutter",
+    "canvas",
+    "typescript",
+    "painting",
+    "drawing",
+    "graphics",
+    "web",
+    "html5"
+  ],
+  "author": "Fi2zz",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fi2zz/flutter-canvas-ts/issues"
+  },
+  "homepage": "https://github.com/Fi2zz/flutter-canvas-ts#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  }
+}
